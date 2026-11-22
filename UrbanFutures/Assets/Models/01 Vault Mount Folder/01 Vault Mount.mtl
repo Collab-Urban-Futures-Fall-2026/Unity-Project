@@ -1,0 +1,32 @@
+# Blender 5.3.0 MTL File: '01 Vault Mount.blend'
+# www.blender.org
+
+newmtl pet_turf
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd leafy_grass_diff_2k.jpg
+
+newmtl sandstone
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd red_sandstone_pavement_diff_2k.jpg
+
+newmtl terracotta
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd patio_tiles_diff_4k.jpg

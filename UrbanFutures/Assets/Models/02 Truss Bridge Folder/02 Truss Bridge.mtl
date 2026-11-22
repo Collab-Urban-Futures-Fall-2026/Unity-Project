@@ -1,0 +1,32 @@
+# Blender 5.3.0 MTL File: '02 Truss Bridge.blend'
+# www.blender.org
+
+newmtl charcoal_steel
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.058672 0.063378 0.060461
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl natural_wood
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd wood_planks_diff_2k.jpg
+
+newmtl sandstone
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd red_sandstone_pavement_diff_2k.jpg
