@@ -54,7 +54,7 @@
       "depth": 0,
       "source": "builtin",
       "dependencies": {
-        "com.unity.xr.interaction.toolkit": "3.3.2",
+        "com.unity.xr.interaction.toolkit": "3.7.0",
         "com.unity.xr.oculus": "4.5.6",
         "com.unity.xr.openxr": "1.17.0"
       }
@@ -284,8 +284,8 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.interaction.toolkit": {
-      "version": "3.3.2",
-      "depth": 1,
+      "version": "3.7.0",
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.ugui": "2.0.0",
