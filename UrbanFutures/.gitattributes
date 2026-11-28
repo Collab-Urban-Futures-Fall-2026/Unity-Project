@@ -1,0 +1,2 @@
+# Files over GitHub's 100 MB limit go through Git LFS
+**/Moss_AllAssets_AssetKit.fbx filter=lfs diff=lfs merge=lfs -text

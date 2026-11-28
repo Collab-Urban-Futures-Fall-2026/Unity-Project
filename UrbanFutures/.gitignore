@@ -70,3 +70,19 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+# ---- Added for Site B upload (Jerry) ----
+# raw downloads / installers: keep only the extracted assets
+*.zip
+*.zip.meta
+*.unitypackage
+*.unitypackage.meta
+*.blend1
+*.blend1.meta
+.DS_Store
+# Moss & Stones kit: only the 2k textures are used
+/[Aa]ssets/Models/Sit B/FBX/FBX/FBX/textures/4k/
+/[Aa]ssets/Models/Sit B/FBX/FBX/FBX/textures/4k.meta
+/[Aa]ssets/Models/Sit B/FBX/FBX/FBX/textures/8k_Stones/
+/[Aa]ssets/Models/Sit B/FBX/FBX/FBX/textures/8k_Stones.meta
+/[Aa]ssets/Models/Sit B/FBX/FBX/FBX/textures/HDR/
+/[Aa]ssets/Models/Sit B/FBX/FBX/FBX/textures/HDR.meta
